@@ -1,1 +1,1 @@
-![Housing drawing](docs/media/housing_drawing.jpg)
+![Housing drawing](docs/media/housing_drawing.JPG)
