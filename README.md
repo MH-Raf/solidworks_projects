@@ -6,4 +6,4 @@
 
 ---
 
-![3D-model of machine fixture](machine_fixture/machine_fixture_housing.STL)
+[housing of machine fixture](machine_fixture/machine_fixture_housing.STL)
