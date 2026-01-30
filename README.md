@@ -1,1 +1,1 @@
-![Housing drawing](docs/media/Чертеж детали КОРПУС.jpg)
+![Housing drawing](docs/media/housing_drawing.jpg)
